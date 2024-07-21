@@ -20,7 +20,7 @@ oaded
 
 ## INSTALACIÓN (MANUAL):
 
-1. Abre el archivo previamente descargado y extraiga el .tar.gz o instale el .deb (puede saltarse el paso 2)
+1. Abre el archivo previamente descargado y extraiga el .tar.gz o instale el .deb (puede saltarse el paso 2 si instalo por paquete .deb)
 
 2. Luego mueve las carpetas `applications` | `yel-hello` a `/usr/share/`
 
