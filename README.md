@@ -15,7 +15,7 @@ Bienvenida de CuerdOS GNU/Linux, para darle su primer bienvenida a nuestra distr
 - Thonny o otro IDE
 
 ## ANTES DE INSTALAR, DEBES DESCARGAR LAS SIGUIENTES DEPENDENCIAS:
-
+oaded
 - Comando (Abre sakura): `sudo apt install python3`
 
 ## INSTALACIÓN (MANUAL):
@@ -28,7 +28,9 @@ Bienvenida de CuerdOS GNU/Linux, para darle su primer bienvenida a nuestra distr
 
 - KDE Plasma: Preferencias de Sistema > Arranque y apagado > Inicio automatico > Añadir aplicación > Yelena Hello.
 
-- Xfce: Configuración > Sesión e Inicio > Inicio automatico > Añadir aplicación > Yelena Hello.
+- Xfce: Configuración > Sesión e Inicio > Inicio automatico > Añadir > en la siguiente captura llenas estos espacios:
+
+![Screenshot](/img/xfce_ri.png)
 
 - Cinnamon: Configuración del sistema > Aplicaciones al inicio > Añadir programa > Yelena Hello
 
