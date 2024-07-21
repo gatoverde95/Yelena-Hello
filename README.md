@@ -15,7 +15,7 @@ Bienvenida de CuerdOS GNU/Linux, para darle su primer bienvenida a nuestra distr
 - Thonny o otro IDE
 
 ## ANTES DE INSTALAR, DEBES DESCARGAR LAS SIGUIENTES DEPENDENCIAS:
-oaded
+
 - Comando (Abre sakura): `sudo apt install python3`
 
 ## INSTALACIÓN (MANUAL):
