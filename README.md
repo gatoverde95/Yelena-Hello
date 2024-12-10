@@ -11,7 +11,7 @@ Bienvenida de CuerdOS GNU/Linux, para darle su primer bienvenida a nuestra distr
 
 ## REQUERIMIENTOS PARA MODIFICAR EL CODIGO:
 
-- Python, Go y R & RStudio instalados
+- Python, Ruby y RStudio/R instalados.
 - Thonny o otro IDE
 
 ## ANTES DE INSTALAR, DEBES DESCARGAR LAS SIGUIENTES DEPENDENCIAS:
