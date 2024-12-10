@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="/img/logo.png" alt="Logo" width="300" height="120">
+  <img src="/img/crd2.png" alt="Logo" width="512" height="111">
 </p>
 
 Bienvenida de CuerdOS GNU/Linux, para darle su primer bienvenida a nuestra distribución. Potenciada por Software libre y tecnologias libres como Python &amp; Thonny, R &amp; RStudio y Go &amp; Geany.
