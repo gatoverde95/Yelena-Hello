@@ -7,7 +7,7 @@ Bienvenida de CuerdOS GNU/Linux, para darle su primer bienvenida a nuestra distr
 
 | Captura de pantalla |
 | ------------------ |
-| ![Screenshot](/img/capt1.2.png) |
+| ![Screenshot](/img/capture1.png) |
 
 ## REQUERIMIENTOS PARA MODIFICAR EL CODIGO:
 
