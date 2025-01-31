@@ -33,8 +33,8 @@ Con **Yelena Hello**, los usuarios pueden disfrutar de una introducción interac
 Clona el repositorio y ejecuta la aplicación:
 
 ```bash
-git clone https://github.com/gatoverde95/CuerdOS-Yelena-Hello.git
-cd CuerdOS-Yelena-Hello
+git clone https://github.com/gatoverde95/Yelena-Hello.git
+cd Yelena-Hello
 python3 hello.py
 ```
 
@@ -82,7 +82,7 @@ Configura el inicio automático de **Yelena Hello** dependiendo de tu entorno de
 3. Haz clic en **Añadir aplicación**.
 4. Busca y selecciona **Yelena Hello**.
 
-Luego, reinicia **CuerdOS** o tu **CuerdOS Spin** para que los cambios tengan efecto.
+Luego, reinicia **CuerdOS** o tu **CuerdOS Visuals** para que los cambios tengan efecto.
 
 
 ## Contribuir
