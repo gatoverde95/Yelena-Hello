@@ -1,7 +1,7 @@
 # Yelena Hello
 
 <p align="center">
-  <img src="hello.svg" alt="Hello Logo" width="150"/>
+  <img src="icons/prog1.svg" alt="Hello Logo" width="150"/>
 </p>
 <p align="center">
   <img src="assets/capture1.png" alt="Captura 1" width="400"/>
