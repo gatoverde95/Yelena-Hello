@@ -41,9 +41,8 @@ python3 hello.py
 ## Uso
 
 1. Ejecuta `python3 hello.py`.
-2. Selecciona un tema de la lista o personaliza los colores.
-3. Aplica los cambios y observa la vista previa en Conky.
-4. Guarda la configuración y disfruta de tu nuevo tema.
+2. Navega por las opciones rapidas que proporciona.
+3. Activa si quieres que se autoinicie.
 
 ## Configuración de inicio
 
