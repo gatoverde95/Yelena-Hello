@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0.1a200724s
+Name=Yelena Hello
+Name[es]=Yelena Hello
+Comment=Welcome to CuerdOS
+Comment[es]=Bienvenida a CuerdOS
+Exec=python3 /usr/share/yel-hello/hello.py
+Icon=/usr/share/yel-hello/icons/prog1.svg
+Terminal=false
+Type=Application
+Categories=Utility;
