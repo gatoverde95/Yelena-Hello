@@ -4,12 +4,12 @@
   <img src="icons/prog1.svg" alt="Hello Logo" width="150"/>
 </p>
 <p align="center">
-  <img src="assets/capture1.png" alt="Captura 1" width="900"/>
+  <img src="captures/capture_hello2.png" alt="Captura 1" width="900"/>
 </p>
 
 **Yelena Hello** es un programa de bienvenida diseñado para la distribución **CuerdOS GNU/Linux**. Su propósito es proporcionar una experiencia de usuario amigable desde el primer momento, al iniciar el sistema operativo.
 
-Este programa está potenciado por **Python** y **Ruby**, lo que le otorga flexibilidad y rendimiento. Su interfaz está cuidadosamente diseñada utilizando **GTK** y **Qt**, dos de las bibliotecas gráficas más potentes para la creación de aplicaciones en entornos Linux.
+Este programa está potenciado por **Python**, lo que le otorga flexibilidad y rendimiento. Su interfaz está cuidadosamente diseñada utilizando **GTK** y **Qt**, dos de las bibliotecas gráficas más potentes para la creación de aplicaciones en entornos Linux.
 
 Con **Yelena Hello**, los usuarios pueden disfrutar de una introducción interactiva a **CuerdOS**, facilitando la configuración inicial y ofreciendo información clave sobre el sistema operativo.
 
@@ -35,12 +35,12 @@ Clona el repositorio y ejecuta la aplicación:
 ```bash
 git clone https://github.com/gatoverde95/Yelena-Hello.git
 cd Yelena-Hello
-python3 hello.py
+python3 hello2.py
 ```
 
 ## Uso
 
-1. Ejecuta `python3 hello.py`.
+1. Ejecuta `python3 hello2.py`.
 2. Navega por las opciones rapidas que proporciona.
 3. Activa si quieres que se autoinicie.
 
