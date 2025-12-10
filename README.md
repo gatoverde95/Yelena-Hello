@@ -19,12 +19,13 @@ Con **Yelena Hello**, los usuarios pueden disfrutar de una introducción interac
 - **Documentación detallada** sobre novedades, ediciones y más, para mantener al usuario informado sobre las actualizaciones y cambios importantes.
 - **Ligero y sencillo**, ideal para usuarios principiantes que buscan una experiencia fácil de usar sin complicaciones.
 - **Integración fluida** con el entorno de escritorio de **CuerdOS**, proporcionando una experiencia coherente y optimizada.
-- **Parte esencial de CuerdOS Suite**, brindando herramientas y utilidades para mejorar la interacción con el sistema operativo.
+- **Parte esencial de CuerdTools**, brindando herramientas y utilidades para mejorar la interacción con el sistema operativo.
+- **Kelp Framework como parte de CuerdOS**
 - **Accesos directos** a diversas secciones del sistema y documentación, facilitando la navegación y el acceso a información clave de forma rápida y eficiente.
 
 ## Requisitos
 
-- **CuerdOS GNU/Linux**
+- **Cualquier distro!!!!!!**
 - **Python 3.x**
 - **GTK 3.0**
 
@@ -35,8 +36,9 @@ Clona el repositorio y ejecuta la aplicación:
 ```bash
 git clone https://github.com/gatoverde95/Yelena-Hello.git
 cd Yelena-Hello
-python3 hello2.py
+python3 yel-hello.py
 ```
+Tambien en el area de lanzamientos se encuentran paquetes .deb
 
 ## Uso
 
