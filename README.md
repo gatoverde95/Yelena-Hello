@@ -38,13 +38,6 @@ git clone https://github.com/gatoverde95/Yelena-Hello.git
 cd Yelena-Hello/project/
 python3 yel-hello.py
 ```
-Tambien en el area de lanzamientos se encuentran paquetes .deb
-
-## Uso
-
-1. Ejecuta `python3 hello2.py`.
-2. Navega por las opciones rapidas que proporciona.
-3. Activa si quieres que se autoinicie.
 
 ## Configuración de inicio
 
