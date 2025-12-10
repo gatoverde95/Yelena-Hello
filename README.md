@@ -35,7 +35,7 @@ Clona el repositorio y ejecuta la aplicación:
 
 ```bash
 git clone https://github.com/gatoverde95/Yelena-Hello.git
-cd Yelena-Hello
+cd Yelena-Hello/project/
 python3 yel-hello.py
 ```
 Tambien en el area de lanzamientos se encuentran paquetes .deb
