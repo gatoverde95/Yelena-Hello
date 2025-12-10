@@ -46,43 +46,7 @@ python3 hello2.py
 
 ## Configuración de inicio
 
-Configura el inicio automático de **Yelena Hello** dependiendo de tu entorno de escritorio:
-
-### KDE Plasma
-1. Ve a **Preferencias de Sistema**.
-2. Navega a **Arranque y apagado**.
-3. Selecciona **Inicio automático**.
-4. Haz clic en **Añadir aplicación**.
-5. Busca y selecciona **Yelena Hello**.
-
-### Xfce
-1. Abre **Configuración**.
-2. Dirígete a **Sesión e Inicio**.
-3. Ve a **Inicio automático**.
-4. Haz clic en **Añadir**.
-5. En la siguiente captura, llena los espacios correspondientes.
-
-### Cinnamon
-1. Abre **Configuración del sistema**.
-2. Dirígete a **Aplicaciones al inicio**.
-3. Haz clic en **Añadir programa**.
-4. Busca y selecciona **Yelena Hello**.
-
-### MATE
-1. Abre **Centro de control de MATE**.
-2. Ve a **Personal**.
-3. Selecciona **Aplicaciones al inicio**.
-4. Haz clic en **Añadir programa**.
-5. Busca y selecciona **Yelena Hello**.
-
-### GNOME
-1. Abre **Retoques**.
-2. Ve a **Aplicaciones al inicio**.
-3. Haz clic en **Añadir aplicación**.
-4. Busca y selecciona **Yelena Hello**.
-
-Luego, reinicia **CuerdOS** o tu **CuerdOS Visuals** para que los cambios tengan efecto.
-
+El programa ya hace su respectiva configuración!!
 
 ## Contribuir
 
@@ -90,7 +54,7 @@ Si deseas colaborar en el desarrollo de **Yelena Hello**, síguenos en [GitHub](
 
 ## Licencia
 
-Este proyecto está licenciado bajo la **GPLv3**. Puedes consultar el archivo `LICENSE` para más información.
+Este proyecto está licenciado bajo la **GPLv3** y **CPLv1**. Puedes consultar el archivo `LICENSE` para más información.
 
 ---
 
