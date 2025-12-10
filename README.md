@@ -1,10 +1,10 @@
 # Yelena Hello
 
 <p align="center">
-  <img src="icons/prog1.svg" alt="Hello Logo" width="150"/>
+  <img src="images/prog1.svg" alt="Hello Logo" width="150"/>
 </p>
 <p align="center">
-  <img src="captures/capture_hello2.png" alt="Captura 1" width="900"/>
+  <img src="images/capture_hello2.png" alt="Captura 1" width="900"/>
 </p>
 
 **Yelena Hello** es un programa de bienvenida diseñado para la distribución **CuerdOS GNU/Linux**. Su propósito es proporcionar una experiencia de usuario amigable desde el primer momento, al iniciar el sistema operativo.
